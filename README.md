@@ -13,9 +13,8 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on 
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
 
@@ -37,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,github,sqlsever,mysql,numpy,pandas,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=python,github,mysql,tensorflow,sklearn" /><br>
 </div>
   <br/><br/><br/>
 <hr/>
