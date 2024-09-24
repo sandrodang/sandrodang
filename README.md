@@ -2,10 +2,10 @@
 <div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dang+Nam!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+<h3 align="center">I'm a AI engineer</h3>
 
 <br/>
 
@@ -20,10 +20,10 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
+  <a href="mailto:namdangphuong08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-nam-862069272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
@@ -45,9 +45,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+    <img src="https://skillicons.dev/icons?i=python,github,sql,mysql,jupyternotebook" /><br>
 </div>
   <br/><br/><br/>
 <hr/>
@@ -66,10 +64,10 @@
 <br>
 <div align=center>
   <a href="#" title="thanhtin4401">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrodang&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="thanhtin4401">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sandrodang&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
