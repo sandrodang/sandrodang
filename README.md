@@ -13,7 +13,7 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on 
+ 🔭 I interest with AI, Data Science
 
  
  </div>
