@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,tensorflow,sklearn,pytorch,selenium,docker,api,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,tensorflow,sklearn,pytorch,selenium,anaconda,docker" /><br>
 </div>
   <br/><br/><br/>
 <hr/>
